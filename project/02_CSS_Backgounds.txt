@@ -1,0 +1,57 @@
+CSS Backgrounds
+---------------
+-> The CSS backgrounds properties are used to apply various background styles for the HTML Elements.
+
+-> The CSS Backgrounds contains the following properties,
+
+1)background-color:
+-------------------
+-> This property is used to apply any background-color for the HTML elements using textual color , RGB , HEX , HSL , RGBA , HSLA values.
+
+2) background-image
+-------------------
+-> This property is used to apply the background-image for any HTML element.
+Syntax: background-image:url("address of the image");
+
+3) background-repeat
+--------------------
+-> This property is used wheather to repeat the image in the background or nor-repeat.
+-> this property contains the following values,
+repeat-x -> to repeat the image in X-axis
+repeat-y -> to repeat the image in Y-axis
+no-repeat -> to display a single image
+
+4)background-attachment
+------------------------
+-> This property is used to fix the image in the background or scroll the image along with the scroll bar.
+-> This property contains the following values
+fixed - > to fix the image in the background
+scroll -> to scroll the image along with the scroll bar.
+
+5) background-position
+-----------------------
+-> this property is used to place the image in the specified position like right , top , left  , bottom , center.
+
+Shortcut property
+------------------
+we can apply all the background properties using a single CSS property called 'background'
+
+syntax: background:color url repeat attachment position;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

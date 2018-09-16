@@ -1,0 +1,28 @@
+CSS paddings
+------------
+-> The CSS paddings indicates some space inside the border and around the HTML Element.
+-> The CSS paddings contains the following properties,
+
+padding-top -> to apply the top padding for element.
+padding-right -> to apply the right padding for ..
+padding-bottom -> to apply the bottom padding
+padding-left -> to apply the left padding
+
+Shortcut property
+-----------------
+-> We can apply all the paddings of CSS using the shortcut property called 'padding'
+
+Ex: padding: 5px 10px 15px 20px;
+		     T    R    B    L
+	padding: 5px 10px;
+             TB  LR	
+	padding: 5px;
+            (all the sides)
+ 	
+
+
+
+
+
+
+

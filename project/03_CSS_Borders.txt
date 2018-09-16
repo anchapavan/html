@@ -1,0 +1,55 @@
+CSS Borders
+------------
+-> The CSS Borders are used to apply various border styles for the HTML elements.
+-> The CSS Borders contains the following properties,
+
+1) border-width
+---------------
+-> This property is used to specify the width of the border in px , cm , mm , inch , em , etc.
+
+Ex: border-width: 5px;
+
+2) border-style
+---------------
+-> This property is used to specify the style of the border.
+-> This property contains the following values,
+
+solid -> _______
+dotted -> ......
+dashed -> -------
+double -> ========
+
+3) border-color
+---------------
+-> This property is used to specify the color of the border using all the color values.
+
+shortcut property
+-----------------
+We can specify all the border styles using a shortcut property called 'border'
+
+Syntax: border: width style color;
+Ex:     boder: 5px solid green;
+
+Note:
+-----
+-> The above property applies the border for all the sides of a HTML element.
+-> We can even apply the border for individual sides using the following properties,
+border-top , border-right , border-bottom , border-left
+-> We can apply the rounded corners for the border using the a CSS property called 'border-radius'.
+Ex: border-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

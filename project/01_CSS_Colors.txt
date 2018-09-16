@@ -1,0 +1,91 @@
+CSS COLORS
+----------
+-> The CSS colors are used to apply different color values for the HTML Elements.
+-> We can specify the color values in the following ways.
+
+1) Textual color
+-----------------
+-> In this we can specify the colors in textual format.
+
+ex: color:red;
+
+2) RGB (red,green,blue)
+------------------------
+syntax: rgb(red,green,blue);
+
+here the color values starts from 0 - 255.
+
+Ex: rgb(0,0,0); -> black color
+    rgb(255,255,255); -> white color
+	
+3) HEX (Hexa decimal)	
+----------------------
+Syntax: #rrggbb;
+
+-> Here the color values starts from 00 - FF in HEX decimal Format.
+
+Ex: #000000; -> black color
+    #FFFFFF; -> white color
+	
+4) HSL (hue,saturation,lightness)
+---------------------------------
+syntax: hsl(hue,saturation,lightness);
+
+Here,
+Hue -> a Degree on the color wheel 
+(0:red , 120:green: , 240: blue , 360:black)
+
+Saturation -> is a percentage value 
+(0% means a shade of gray, and 100% is the full color)
+
+Lightness -> is also a percentage
+(0% is black, 50% is neither light nor dark, 100% is white)
+
+Ex: hsl(160,60%,50%); -> some color
+
+5) RGBA (red,green,blue,alpha)
+------------------------------
+syntax: rgba(red,green,blue,alpha);
+
+This is Exactly same RGB with an extra 'alpha'
+
+Here 'alpha' indicates the transparent value , its value between 0 & 1.
+
+0 -> Full Transparent
+1 -> Full Color
+
+Ex: rgba(240,14,160,0.5);
+
+6) HSLA (Hue ,Saturation,lightness,alpha)
+-----------------------------------
+Syntax: hsla(Hue ,Saturation,lightness,alpha);
+
+This is exactly same as HSL with an extra 'alpha'.
+The 'alpha' values are same as above.
+
+Ex: hsla(240,60%,55%,0.5);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+
+
+
+
+
+
+
+
+
+

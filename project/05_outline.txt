@@ -1,0 +1,40 @@
+CSS Outline
+------------
+-> The CSS indicates a kind of border outside the border but insid the margin.
+-> The properties of outline almost same as the border properties.
+
+outline-width: indicates the width of an outline , we can specify the width using px , cm , mm , em , inch etc.
+
+outline-style: indicates the style of an outline.
+This property contains the following values.
+
+solid: ________
+dotted: ........
+dashed: ---------
+double: =========
+
+outline-color: indicates the color of an outline. we can specify the outline color using all the color values.
+
+Shortcut property
+-------------------
+we can specify all the outline styles using a shortcut property called 'outline'
+
+Syntax: outline: width style color;
+Ex: outline: 5px solid green;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
